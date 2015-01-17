@@ -14,11 +14,14 @@ Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\Assemb
 Loading C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
 Loading C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.060 seconds
+- Completed reload, in  0.059 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\UnityScript.Lang.dll (this message is harmless)

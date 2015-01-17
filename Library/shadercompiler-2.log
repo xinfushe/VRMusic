@@ -1,11 +1,69 @@
 Base path: C:/Program Files (x86)/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-2-2140
+Pipe name: \\.\pipe\UnityShaderCompiler-2-5448
 Cmd: getPlatforms
 Cmd: compileSnippet
-  api=1 type=0 insize=952 outsize=171 kw= ok=1
+  api=1 type=0 insize=3359 outsize=449 kw=WATER_REFRACTIVE ok=1
 Cmd: compileSnippet
-  api=8 type=1 insize=952 outsize=1138 kw= ok=1
-Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
-
-
-Quitting shader compiler process
+  api=4 type=0 insize=3359 outsize=2087 kw=WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3359 outsize=1729 kw=WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3359 outsize=4347 kw=WATER_REFRACTIVE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3359 outsize=756 kw=WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3359 outsize=679 kw=WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3359 outsize=3323 kw=WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1008 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1007 outsize=134 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1171 outsize=351 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1171 outsize=1983 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3253 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3251 outsize=335 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3251 outsize=1325 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3267 outsize=2462 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3267 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3259 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3259 outsize=1187 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3259 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3256 outsize=335 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3256 outsize=1325 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3268 outsize=2462 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3268 outsize=1942 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3261 outsize=1105 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3254 outsize=66 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3258 outsize=335 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3253 outsize=335 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3253 outsize=886 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4698 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=4703 outsize=364 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=4713 outsize=588 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4708 outsize=2990 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=4708 outsize=2974 kw= ok=1
