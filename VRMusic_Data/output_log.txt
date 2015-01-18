@@ -18,10 +18,11 @@ Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\Assemb
 Loading C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.059 seconds
+- Completed reload, in  0.053 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/Glow Downsample' - Pass '' shader state not supported
 Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\Duncan\Documents\VRMusic\VRMusic_Data\Managed\UnityScript.Lang.dll (this message is harmless)
